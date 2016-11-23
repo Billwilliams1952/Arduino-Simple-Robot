@@ -1,6 +1,6 @@
 # Arduino-Simple-Robot
 
-A simple Arduino sketch for controlling a small two wheel robot. The robot wheels are drive my an Adafruit motorshield. An ultrasonic sensor attached to the front and driven by a servo provides range detection over 180 degrees forward field of view. 
+A simple Arduino sketch for controlling a small two wheel robot. The robot wheels are driven by an Adafruit motorshield. An ultrasonic sensor attached to the front and driven by a servo provides range detection over 180 degrees forward field of view. 
 
 ## Synopsis
 
