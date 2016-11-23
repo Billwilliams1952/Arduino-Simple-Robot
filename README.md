@@ -1,7 +1,10 @@
 # Arduino-Simple-Robot
-A simple Arduino sketch for controlling a samll two wheel robot.
+
+A simple Arduino sketch for controlling a small two wheel robot. The robot wheels are drive my an Adafruit motorshield. An ultrasonic sensor attached to the front and driven by a servo provides range detection over 180 degrees forward field of view. 
 
 ## Synopsis
+
+This is my first attempt at creating a small inexpensive autonomous robot.
 
 ## Installation
 
@@ -13,7 +16,11 @@ This program uses the Arduino API (**Arduino.h**, **spi.h** and **wire.h**) and 
 
 ## Tests
 
-No special tests are provided.
+No special tests are provided. Let the robot run until it:
+- gets stuck in a rut
+- gets stuck against a wall
+- gets caught under furniture
+- runs out of power
 
 ## License
 
