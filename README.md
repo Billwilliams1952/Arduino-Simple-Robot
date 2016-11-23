@@ -6,6 +6,8 @@ A simple Arduino sketch for controlling a small two wheel robot. The robot wheel
 
 This is my first attempt at creating a small inexpensive autonomous robot.
 
+![alt tag](https://cloud.githubusercontent.com/assets/3778024/20576479/bb5e8c82-b183-11e6-9c74-b02f5efd1e68.JPG)
+
 ## Installation
 
 Download the ZIP file and extract into your **sketchbook** directory.
