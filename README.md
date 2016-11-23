@@ -10,7 +10,11 @@ This is my first attempt at creating a small inexpensive autonomous robot.
 
 ## Installation
 
-Download the ZIP file and extract into your **sketchbook** directory.
+Download the ZIP file and extract into your **sketchbook** directory. The robot design is shown below and in the FirstRobot.png file.
+
+**Design**
+
+![alt tag](https://cloud.githubusercontent.com/assets/3778024/20579313/a4899fca-b191-11e6-91ed-3b74b1475940.png)
 
 ## API Reference
 
