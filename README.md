@@ -9,9 +9,11 @@ Download the ZIP file and extract into your **sketchbook** directory.
 
 ## API Reference
 
-This program uses the Arduino API (**Arduino.h**). It has been tested on the Arduino Micro.
+This program uses the Arduino API (**Arduino.h**) and two libraries for driving the motor shield - **Adafruit_MotorShield** and **Adafruit_MS_PWMServoDriver**. It has been tested on the **Arduino Uno**.
 
 ## Tests
+
+No special tests are provided.
 
 ## License
 
