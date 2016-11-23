@@ -14,7 +14,7 @@ Download the ZIP file and extract into your **sketchbook** directory. The robot 
 
 **Design**
 
-![alt tag](https://cloud.githubusercontent.com/assets/3778024/20579313/a4899fca-b191-11e6-91ed-3b74b1475940.png)
+![alt tag](https://cloud.githubusercontent.com/assets/3778024/20582036/d2d1c0ea-b1a2-11e6-870a-65cced7186a6.png)
 
 ## API Reference
 
